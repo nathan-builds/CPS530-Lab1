@@ -1,0 +1,41 @@
+* {
+    margin-bottom: 10px;
+    margin-top: 0;
+  }
+  
+  .header {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+  }
+  .body {
+    border: 5px solid black;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+  .image {
+    width: auto;
+    height: 200px;
+    
+  }
+  
+  .section-title{
+      display: flex;
+      flex:1;
+      background-color:coral;
+      justify-content: center;
+      align-items: center;
+  }
+  .section-title label{
+    color: black;
+    font-weight: bold;
+    padding-top: 5px;
+  }
+  .verse-reference{
+    padding-left: 500px;
+  }
+  
